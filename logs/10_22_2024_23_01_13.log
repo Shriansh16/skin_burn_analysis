@@ -1,0 +1,7 @@
+[ 2024-10-22 23:01:31,062 ] 29 root - INFO - TRAINING HAS STARTED
+[ 2024-10-22 23:01:31,067 ] 35 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-10-22 23:01:31,071 ] 35 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-10-22 23:01:31,073 ] 54 root - INFO - created directory at: artifacts
+[ 2024-10-22 23:01:31,074 ] 54 root - INFO - created directory at: artifacts\training
+[ 2024-10-22 23:01:32,179 ] 22 root - INFO - error occured during training
+[ 2024-10-22 23:01:32,180 ] 33 root - INFO - error has occured in training pipeline
